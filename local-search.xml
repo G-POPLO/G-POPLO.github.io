@@ -8,7 +8,7 @@
     <link href="/2021/02/24/%E5%A3%B0%E9%9F%B3/"/>
     <url>/2021/02/24/%E5%A3%B0%E9%9F%B3/</url>
     
-    <content type="html"><![CDATA[<h1 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h1><p>嗯…</p><p>我需要一个安静的环境来写作。</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>layout: 2020年8月23日<br>title: 声音<br>date: 2020-08-23 21:04:02<br>tags:</p><hr><p>嗯…</p><p>我需要一个安静的环境来写作。</p>]]></content>
     
     
     
@@ -21,7 +21,7 @@
     <link href="/2021/02/24/%E6%AE%8B%E7%89%87/"/>
     <url>/2021/02/24/%E6%AE%8B%E7%89%87/</url>
     
-    <content type="html"><![CDATA[<h1 id="残片"><a href="#残片" class="headerlink" title="残片"></a>残片</h1><p>今天下午做了一个梦，梦见我作为一个记者去采访一位动画片的导演。</p><p>但由于醒来后没来得及记下来，具体说的是什么内容我忘了，只记得有这么几段话：</p><p>我：“……为什么你要把这首歌作为衡量60秒的单位呢？”</p><h2 id="……-……"><a href="#……-……" class="headerlink" title="…… ……"></a>…… ……</h2><p>为什么呢？现在我也在想。</p><p>但是，我把这首歌记下来了！</p><p>只可惜我只记得那么多，没有60秒</p><p>有时间再想一下这个歌的旋律吧。</p>]]></content>
+    <content type="html"><![CDATA[<p>layout:<br>title: 残片<br>date: 2021-02-05 21:04:02<br>tags:</p><p>今天下午做了一个梦，梦见我作为一个记者去采访一位动画片的导演。</p><p>但由于醒来后没来得及记下来，具体说的是什么内容我忘了，只记得有这么几段话：</p><p>我：“……为什么你要把这首歌作为衡量60秒的单位呢？”</p><h2 id="……-……"><a href="#……-……" class="headerlink" title="…… ……"></a>…… ……</h2><p>为什么呢？现在我也在想。</p><p>但是，我把这首歌记下来了！</p><p>只可惜我只记得那么多，没有60秒</p><p>有时间再想一下这个歌的旋律吧。</p>]]></content>
     
     
     
@@ -34,59 +34,7 @@
     <link href="/2021/02/24/21.2.24/"/>
     <url>/2021/02/24/21.2.24/</url>
     
-    <content type="html"><![CDATA[<h1 id="21-2-24"><a href="#21-2-24" class="headerlink" title="21.2.24"></a>21.2.24</h1><p>哎······突然想记录一下最近的事情。</p><p>是这样的，家里的电脑又坏了，以至于我只能玩iPad，现在终于体会到的没有电脑的痛苦了。</p><p>首先，我最近几天都在干一些没有意义的事情，因为没有喜爱的电脑可以打游戏、写程序，导致我最近几天很无聊。只能拿着iPad去打游戏，刷视频。</p><p>但问题是，iPad上面找不到好玩的游戏啊，都是些无聊的商业游戏（其实想玩独立游戏的，但我没有支付方式啊）</p><p>其次，除了打游戏，最近干的事情就是浏览网页了，然后就看到了好多好玩的游戏（但是没有电脑我现在也玩不了啊！）和一些关于技术的文章，看的我都想实践了！</p><p>最近一直想更新网站的页面，但是因为没有电脑拖迟到了现在···</p><p>现在我什么都干不了···发现我一旦不能创作，就真的感觉好无聊啊···</p><p>哎···也是多多少少体会到那些没有电脑，想打游戏但手机上面都是些无聊游戏的感受了。</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>关于</title>
-    <link href="/2021/02/05/index/"/>
-    <url>/2021/02/05/index/</url>
-    
-    <content type="html"><![CDATA[<h2 id="自我介绍-博客介绍"><a href="#自我介绍-博客介绍" class="headerlink" title="自我介绍 / 博客介绍"></a>自我介绍 / 博客介绍</h2><p>你好，我是C-Poplo，是这个网站的站长。</p><p>这个博客主要更新的是日常生活的日志（通常情况下是这样的）</p><p>除此之外，我还建立有以下的网站：</p><p><a href="https://wwwcpoplo.top/">C-Poplo Pages（我的个人网站）</a></p><p><del><a href="https://daliy.wwwcpoplo.top/">树洞——随笔记录（名存实亡）</a></del></p><p><a href="https://lab.wwwcpoplo.top/">Lab PAGES(也就是你现在看到的这个)</a></p><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ruby">&gt;<span class="hljs-comment">## 趁这篇文章，我正好说一下这篇博客~</span><br></code></pre></td></tr></table></figure><blockquote><ol><li>主页：点击进去你可以看到网站近期发布的文章</li><li>归档：点击进去你可以一口气看完网站上所有发布的文章</li><li>关于：点击进去你可以看见一份详细的网站介绍和自我介绍（你现在就在这里呀~）、</li><li>私信（BETA)：还没有做好···</li></ol></blockquote><h4 id="这里顺便把其他网站也说一下吧"><a href="#这里顺便把其他网站也说一下吧" class="headerlink" title="这里顺便把其他网站也说一下吧~"></a><strong>这里顺便把其他网站也说一下吧~</strong></h4><p>[<a href="https://wwwcpoplo.top/">C-Poplo Pages (我的个人网站) </a>建立时间为<u>2020年8月10日</u>，这个也是我建立的第二个网站。          <del>(我第一个建立的网站在2020.1.12，但在7.27我将它关闭了)</del></p><p><del><a href="https://daliy.wwwcpoplo.top/">树洞——随笔记录（名存实亡）</a></del> 建立于<u>2021年1月2日</u> ，后面因学业暂时暂停维护           <del>(建立的初衷本是想建立一个博客，直到我选择了用Hexo来建站······)</del>                     </p><p>|<a href="https://lab.wwwcpoplo.top/">Lab PAGES(也就是你现在看到的这个)</a> 博客，建立于2021年2月5日</p><h3 id="Q：域名-wwwcpoplo-为什么那么奇怪？"><a href="#Q：域名-wwwcpoplo-为什么那么奇怪？" class="headerlink" title="Q：域名  (wwwcpoplo)  为什么那么奇怪？"></a>Q：域名  (wwwcpoplo)  为什么那么奇怪？</h3><p>啊~其实我也觉得很奇怪。其实吧，网站建立之前我去申请了一个域名，大概是这样的：</p><blockquote><p>我当时在想，申请域名的前缀都是以”www”来开头的，那么申请域名前缀就要加上”www”咯</p><p>然后就是一直填表格，NEXT，填表格，NEXT，OK···诶，不对劲···</p><p><del>后来发现已经晚了</del></p><p>然后域名就变成了这样···</p><p><del>然后后续我也懒得改了，干脆就这样吧！</del>  </p><p>至少···这次经历教会了我一个道理：以后输网址的时候可以不用输入”www”前缀了</p></blockquote><p><strong>总体</strong></p><ul><li><strong>目前是学生在读，因为学业忙碌所以只能用业余时间来兼顾自己的业余爱好</strong></li><li>爱好比较广泛，<strong>喜欢尝试各种各样的东西</strong>，尤其是任何有关于计算机的一切，爱好作曲、编程，<del>还会一点点钢琴</del></li><li>现在我做的可能并不是我将来要从事的事业，总之业余水平自己开心就好~</li></ul><hr><p><strong>一 · 关于编曲</strong></p><p>喜欢自己编写一些小曲子，但也只是自娱自乐的水平了~</p><p>暂时还没有入驻音乐平台，等我有一天自己实力足够时再考虑一下。</p><p>很佩服将自己的情感融入曲子的作曲家            <em><del>这也许是我以后要努力的方向吧？</del></em></p><p><strong>二 · 关于编程</strong></p><p>喜欢自己编写一些小软件，平时也有自己制作游戏的爱好</p><p>主战场Python&amp;C#，略懂一点点网站设计(html&amp;css)     </p><p> <del>其他的语言也接触过一点点，不过我常用的大概就是这几个了</del></p><p><strong>目前编程不足水平仅为业余水平了~</strong>  但在努力学习以变得更好</p><p><strong>三 · 其他</strong></p><p><code>喜欢游戏，尤其是那些能用故事打动人独立游戏</code></p><p><code>这个网站时不时会有一些更新，欢迎有时间来看一下</code></p><p><strong>At Last···</strong></p><p>大概就那么多了，感谢你能点进来看到这里~</p><p>那就···这样了，收尾！</p><p>21.2.13</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2020·8·26</title>
-    <link href="/2021/02/05/2020%E5%B9%B48%E6%9C%8826%E6%97%A5/"/>
-    <url>/2021/02/05/2020%E5%B9%B48%E6%9C%8826%E6%97%A5/</url>
-    
-    <content type="html"><![CDATA[<p>前天我的表弟来到我家。（走着来到这里的，好厉害）</p><p>我顺手给他安利了我的游戏“TestRoom”.</p><p><del><u>他是一个很不正经的人，所以他来玩我的游戏也是用及不正经的方式来玩的。</u></del></p><p>很快，他发现了我的游戏里面可以使用2个箱子来飞天。</p><p>于是我就看见了这个人拿着2个箱子在整个地图飞来飞去，也不着急通关。</p><p>等他离开后我自己去试了一下这个BUG,发现真的可以做到，但是操作比较难。</p><p>好厉害，这个都被他发现了，我自己都没有想到这一点······</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2020年8月23日 奇怪的梦</title>
-    <link href="/2021/02/05/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/"/>
-    <url>/2021/02/05/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/</url>
-    
-    <content type="html"><![CDATA[<p>今天下午做了一个奇怪的梦。</p><p>梦见我入住了一个宾馆，从外面来看很小，但一旦进入了里面，就是另外一个世界，里面有很开阔的空间，墙上装饰的奇怪的壁画，画的内容是一个比较抽象的蓝色大圆，园内不对称的记载着一些符号。</p><p>没有人知道那些符号代表着什么，这些蓝色的大圆散落着整个空间。</p><p>突然我们收到了一个提示：“<em>请大家进入2楼% 芸楛  游 曆  。</em>”</p><p>后面的话我听不清了。</p><p>我随着大部队一起走着，但突然周围的逐渐暗淡了下来，房间内的圆盘开始转动，符号也闪烁着金光，我开始听不见周围的声音，只听见身边嘈杂的声音。</p><p>我看不清大部队在哪里。</p><p><strong>我迷路了</strong></p><p>我开始在房间内一个一个地搜查，但每个房间内都是相同的场景：蓝色的圆盘转动，里面闪烁着金色的符号。</p><p>于是我前往3楼。</p><p>3楼好像是教学区，附近都是教室，但里面已经没有人了，从窗户望去，里面的座椅整整齐齐的摆放着，排列的方式是以一排一排的方式来排列的，座椅上覆盖着一层蓝色的布。</p><p>座椅有了，但为什么里面没有配套的桌子？</p><p>我向着4楼走去，但发现里面已经锁门了。</p><p>里面仿佛是另一片天地。</p><p>我于是前往2楼，里面再也不是蓝色圆盘了，我可以看见人了。</p><p>不过，首先我得找到正确的房间，我得知道我住在哪里。</p><p>经过一番摸索后，我找到了我居住的房间。</p><p>房间内部还挺大。以地面上的蓝色圆盘周围，左右两排摆放着整整齐齐的蓝色双人床铺。每一个床铺上面都写了一张纸记载的我们的名字、难度、入住时间。</p><p>上面写着我的难度为“<strong>中</strong>”。这是什么意思？</p><p>我问了一个人：“嘿，你好，请问一下，你知道上面的‘难度’是什么意思吗？”</p><p>“ 难度 ？不知道，不过我的‘难度’也是‘中’。”</p><p>…… (记忆被删除）</p><p>我拿起我随身携带的iPad ，打开WiFi 。”好吧，我看看， 写字楼WiFi     ysmz Firefox-send <strong>Y997#&amp;@*(@)=</strong> (后面是一串奇怪的数字）。</p><p>这个名叫叫Firefox-send <strong>Y997</strong>（先简称叫<strong>Y997</strong>）的Wi-Fi好奇怪，其他正常的Wi-Fi在iPad上面的显示信号最大只有3格，但这个<strong>Y997</strong>有5格的信号，而且在名叫 <strong>Y997</strong> 的Wi-Fi的图标的右下角有一个闪烁着的绿色小点。</p><p> <a href="https://img.imgdb.cn/item/601d42e33ffa7d37b3ff99e1.png"><img src="https://img.imgdb.cn/item/601d42e33ffa7d37b3ff99e1.png"></a></p><p>​                                    <!--（正常的WiFi选项，最大信号只有3格）--></p><p>完全不正常。</p><p>每一个在这里的WiFi都是有密码的，所以我连接不上这里的任何WiFi。</p><p>询问其他人得知，他们都是使用流量来上网的。 </p><p><strong>抱歉，先打断一下，现在我外面太吵了，我完全进入不了气氛，所以等到安静的时候在写吧（不过要快，因为我快忘了······）</strong></p><p>先写到这里吧，待会在写下一章·····</p><h6 id="后续补充：我忘了。"><a href="#后续补充：我忘了。" class="headerlink" title="后续补充：我忘了。"></a>后续补充：我忘了。</h6>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2020年7月28日 星期二</title>
-    <link href="/2021/02/05/%E6%98%9F%E6%9C%9F%E4%BA%8C/"/>
-    <url>/2021/02/05/%E6%98%9F%E6%9C%9F%E4%BA%8C/</url>
-    
-    <content type="html"><![CDATA[<p>今天什么都不想做，只想躺在家听歌……</p>]]></content>
+    <content type="html"><![CDATA[<p>layout:<br>title: 21.2.24<br>date: 2021-02-24 21:12:56<br>tags:</p><p>哎······突然想记录一下最近的事情。</p><p>是这样的，家里的电脑又坏了，以至于我只能玩iPad，现在终于体会到的没有电脑的痛苦了。</p><p>首先，我最近几天都在干一些没有意义的事情，因为没有喜爱的电脑可以打游戏、写程序，导致我最近几天很无聊。只能拿着iPad去打游戏，刷视频。</p><p>但问题是，iPad上面找不到好玩的游戏啊，都是些无聊的商业游戏（其实想玩独立游戏的，但我没有支付方式啊）</p><p>其次，除了打游戏，最近干的事情就是浏览网页了，然后就看到了好多好玩的游戏（但是没有电脑我现在也玩不了啊！）和一些关于技术的文章，看的我都想实践了！</p><p>最近一直想更新网站的页面，但是因为没有电脑拖迟到了现在···</p><p>现在我什么都干不了···发现我一旦不能创作，就真的感觉好无聊啊···</p><p>哎···也是多多少少体会到那些没有电脑，想打游戏但手机上面都是些无聊游戏的感受了。</p>]]></content>
     
     
     
@@ -113,6 +61,45 @@
     <url>/2021/02/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81/</url>
     
     <content type="html"><![CDATA[<h2 id="这个是一个网站测试！"><a href="#这个是一个网站测试！" class="headerlink" title="这个是一个网站测试！"></a>这个是一个网站测试！</h2><p>如果你看到了这个页面，这就说明了<em>我成功了</em></p><p>所以···这个意味着什么？因为<strong>目前</strong>我已经三个自己的网站了啊。</p><p><strong>1.C-POPLO PAGES</strong></p><p><img src="https://img.imgdb.cn/item/601cfa8d3ffa7d37b3de4d54.png"></p><p><strong>2.Trees House</strong></p><p><img src="https://img.imgdb.cn/item/601cfb493ffa7d37b3deaa9d.png"></p><p><strong>3.Lab PAGES</strong>(也就是目前你看见的这个)</p><p><img src="https://img.imgdb.cn/item/601cfba83ffa7d37b3dedf69.png"></p><p>所以···我为什么要弄这么多网站?</p><p><del>因为这个页面使用了Markdown!我现在正在用Markdown来写博客！</del></p><p>其实···我也不知道，可能仅仅因为好玩？也许折腾不需要理由吧。</p><p>哦，对了，顺便提一下，今天下午，我去给网站折腾了一个新的邮箱<code>test@wwwcpoplo.top</code></p><p>给你们看一下哈</p><p><strong>· 发送邮件测试</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">发件箱<br></code></pre></td></tr></table></figure><p><a href="https://img.imgdb.cn/item/601cff1c3ffa7d37b3e1dd1f.png"><img src="https://img.imgdb.cn/item/601cff1c3ffa7d37b3e1dd1f.png"></a></p><p><em>哦，对了，之前收件的邮箱在回复过后，原邮件就不在了，所以没有图片，所以我只截图了下面的那张图片，不过收件箱是可以收到的！</em></p><p><strong>· 接受邮件测试</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">发件箱<br></code></pre></td></tr></table></figure><p><a href="https://img.imgdb.cn/item/601d013c3ffa7d37b3e2cce2.png"><img src="https://img.imgdb.cn/item/601d013c3ffa7d37b3e2cce2.png"></a></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">收件箱<br></code></pre></td></tr></table></figure><p><a href="https://img.imgdb.cn/item/601d01923ffa7d37b3e301ad.png"><img src="https://img.imgdb.cn/item/601d01923ffa7d37b3e301ad.png"></a></p><p>好欸！<strong>现在我可以用这个自定义的邮箱来收发信件了！</strong></p><p>虽然我知道，这个东西好像也没啥用<del>（好像我弄出来的东西大部分都是这样的？）</del></p><p>但是···比起结果，我可能更喜欢折腾它的过程吧。</p><p>总之，自己开心就好😁😁</p><p>那么，就这样了！</p><p>——THE END——</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2020·8·26</title>
+    <link href="/2020/08/26/2020%E5%B9%B48%E6%9C%8826%E6%97%A5/"/>
+    <url>/2020/08/26/2020%E5%B9%B48%E6%9C%8826%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>前天我的表弟来到我家。（走着来到这里的，好厉害）</p><p>我顺手给他安利了我的游戏“TestRoom”.</p><p><del><u>他是一个很不正经的人，所以他来玩我的游戏也是用及不正经的方式来玩的。</u></del></p><p>很快，他发现了我的游戏里面可以使用2个箱子来飞天。</p><p>于是我就看见了这个人拿着2个箱子在整个地图飞来飞去，也不着急通关。</p><p>等他离开后我自己去试了一下这个BUG,发现真的可以做到，但是操作比较难。</p><p>好厉害，这个都被他发现了，我自己都没有想到这一点······</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>奇怪的梦</title>
+    <link href="/2020/08/23/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/"/>
+    <url>/2020/08/23/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/</url>
+    
+    <content type="html"><![CDATA[<p>今天下午做了一个奇怪的梦。</p><p>梦见我入住了一个宾馆，从外面来看很小，但一旦进入了里面，就是另外一个世界，里面有很开阔的空间，墙上装饰的奇怪的壁画，画的内容是一个比较抽象的蓝色大圆，园内不对称的记载着一些符号。</p><p>没有人知道那些符号代表着什么，这些蓝色的大圆散落着整个空间。</p><p>突然我们收到了一个提示：“<em>请大家进入2楼% 芸楛  游 曆  。</em>”</p><p>后面的话我听不清了。</p><p>我随着大部队一起走着，但突然周围的逐渐暗淡了下来，房间内的圆盘开始转动，符号也闪烁着金光，我开始听不见周围的声音，只听见身边嘈杂的声音。</p><p>我看不清大部队在哪里。</p><p><strong>我迷路了</strong></p><p>我开始在房间内一个一个地搜查，但每个房间内都是相同的场景：蓝色的圆盘转动，里面闪烁着金色的符号。</p><p>于是我前往3楼。</p><p>3楼好像是教学区，附近都是教室，但里面已经没有人了，从窗户望去，里面的座椅整整齐齐的摆放着，排列的方式是以一排一排的方式来排列的，座椅上覆盖着一层蓝色的布。</p><p>座椅有了，但为什么里面没有配套的桌子？</p><p>我向着4楼走去，但发现里面已经锁门了。</p><p>里面仿佛是另一片天地。</p><p>我于是前往2楼，里面再也不是蓝色圆盘了，我可以看见人了。</p><p>不过，首先我得找到正确的房间，我得知道我住在哪里。</p><p>经过一番摸索后，我找到了我居住的房间。</p><p>房间内部还挺大。以地面上的蓝色圆盘周围，左右两排摆放着整整齐齐的蓝色双人床铺。每一个床铺上面都写了一张纸记载的我们的名字、难度、入住时间。</p><p>上面写着我的难度为“<strong>中</strong>”。这是什么意思？</p><p>我问了一个人：“嘿，你好，请问一下，你知道上面的‘难度’是什么意思吗？”</p><p>“ 难度 ？不知道，不过我的‘难度’也是‘中’。”</p><p>…… (记忆被删除）</p><p>我拿起我随身携带的iPad ，打开WiFi 。”好吧，我看看， 写字楼WiFi     ysmz Firefox-send <strong>Y997#&amp;@*(@)=</strong> (后面是一串奇怪的数字）。</p><p>这个名叫叫Firefox-send <strong>Y997</strong>（先简称叫<strong>Y997</strong>）的Wi-Fi好奇怪，其他正常的Wi-Fi在iPad上面的显示信号最大只有3格，但这个<strong>Y997</strong>有5格的信号，而且在名叫 <strong>Y997</strong> 的Wi-Fi的图标的右下角有一个闪烁着的绿色小点。</p><p> <a href="https://img.imgdb.cn/item/601d42e33ffa7d37b3ff99e1.png"><img src="https://img.imgdb.cn/item/601d42e33ffa7d37b3ff99e1.png"></a></p><p>​                                    <!--（正常的WiFi选项，最大信号只有3格）--></p><p>完全不正常。</p><p>每一个在这里的WiFi都是有密码的，所以我连接不上这里的任何WiFi。</p><p>询问其他人得知，他们都是使用流量来上网的。 </p><p><strong>抱歉，先打断一下，现在我外面太吵了，我完全进入不了气氛，所以等到安静的时候在写吧（不过要快，因为我快忘了······）</strong></p><p>先写到这里吧，待会在写下一章·····</p><h6 id="后续补充：我忘了。"><a href="#后续补充：我忘了。" class="headerlink" title="后续补充：我忘了。"></a>后续补充：我忘了。</h6>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>星期二</title>
+    <link href="/2020/07/28/%E6%98%9F%E6%9C%9F%E4%BA%8C/"/>
+    <url>/2020/07/28/%E6%98%9F%E6%9C%9F%E4%BA%8C/</url>
+    
+    <content type="html"><![CDATA[<p>今天什么都不想做，只想躺在家听歌……</p>]]></content>
     
     
     
